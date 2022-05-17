@@ -1,7 +1,7 @@
 public class Supandsub{
     public static void main(String[]args){
-        SuperA sa=new SuperA();
-        SubB sb=new SubB();
+        SuperA1 sa=new SuperA1();
+        SubB1 sb=new SubB1();
 
         System.out.println(sb.getV1());
 
