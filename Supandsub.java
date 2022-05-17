@@ -12,3 +12,5 @@ public class Supandsub{
         System.out.println(sa.getV1());
     }
 }
+
+//方法設成private void ?時候不僅不能直接繼承，甚至不能用super.?來獲取
