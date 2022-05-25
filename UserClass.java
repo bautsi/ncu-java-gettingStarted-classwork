@@ -4,6 +4,6 @@ public class UserClass{
         a.move();
         a=new Bird();
         a.move();
-        a.layEgg(); //編譯錯誤 因非super不能DMB
+        //a.layEgg(); //編譯錯誤 因非super不能DMB
     }
 }
