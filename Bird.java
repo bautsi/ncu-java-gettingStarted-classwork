@@ -1,8 +1,8 @@
 public class Bird extends Animal{
-    public move(){
+    public void move(){
         System.out.println("I fly.");
     }
-    public layEgg(){
+    public void layEgg(){
         System.out.println("I lay eggs.");
     }
 }
