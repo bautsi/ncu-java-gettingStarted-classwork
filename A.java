@@ -1,11 +1,8 @@
-public class A{
-    public static void ma(){
-        System.out.println("from ma");
-    }
+public class A extends B{
     public void mb(){
-        System.out.println("from mb");
+        System.out.println("From mb.");
     }
-    public void mc(){
-        mb();
-    }
+    //public void mc(){
+        //System.out.println("From A's mc.");
+    //}
 }
